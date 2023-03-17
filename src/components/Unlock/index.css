@@ -1,0 +1,19 @@
+.lockImage {
+  padding-top: 180px;
+  width: 100px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: #06b6b4;
+  border: none;
+  width: 80px;
+  height: 40px;
+  border-radius: 8px;
+  color: #ffff;
+  margin: 70px;
+}
